@@ -1,0 +1,64 @@
+body {
+	background-color: black;
+	background-image: url("images/forest.jpg");
+	font-family: "Courier New";
+	background-size: 1920px 1080px;
+}
+
+#Nav {
+	float: left;
+	border-style: dashed;
+	background-color: grey;
+	opacity: 0.9;
+	text-align: left;
+	border-radius: 25px;
+	padding: 25px;
+	max-width: 300px; margin: auto;
+}
+
+#center {
+	border-style: dashed;
+	background-color: grey;
+	opacity: 0.9;
+	text-align: center;
+	border-radius: 25px;
+	padding: 10px;
+	max-width: 700px; margin: auto;
+}
+
+#right {
+	float: right;
+	text-align: center;
+	padding: 25px;
+	max-width: 300px; margin: auto;
+}
+
+.footer {
+	text-align: right;
+}
+
+.footer2 {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-weight: bold;
+} 
+
+#table {
+	text-align: center;
+	font-weight: bold;
+	border-style: solid;
+	max-width: 400px; margin: auto;
+	padding: 15px;
+}
+th, td {
+	padding: 15px;
+}
+
+a:link {color: blue;}
+a:visited {color: lightgrey;}
+a:hover {color: white;}
+
+
